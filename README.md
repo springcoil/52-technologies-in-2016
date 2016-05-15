@@ -36,6 +36,22 @@ Below is the list of technologies covered in this series:
   * **[Tweet Deduplication](./11-tweet-deduplication/README.md)**: This week I decided to write a tweet deduplication library. The library will give you a stream of deduplicated tweets.
   * **[TextBlob](./11-textblob/README.md)**. TextBlob is an open source text processing library written in Python. It can be used to perform various natural language processing tasks such as part-of-speech tagging, noun-phrase extraction, sentiment analysis, text translation, and many more.
 
+12. **[Week 12: March 20, 2016](https://github.com/shekhargulati/play-the-missing-tutorial)** [Play Framework](https://github.com/shekhargulati/play-the-missing-tutorial). Play framework is a MVC style web application framework for JVM. It provides API for both Java and Scala programming languages. I am maintaining this tutorial in a separate [Github repository](https://github.com/shekhargulati/play-the-missing-tutorial).
+
+13. **[Week 13: March 27, 2016](./13-arangodb)** [ArangoDB: Polyglot Persistence Without Cost](./13-arangodb/README.md). ArangoDB is an open source NoSQL database that provides flexible data model. You can use ArangoDB to model data using combination of document, graph, and key value data modeling styles.
+
+14. **[Week 14: April 03, 2016](./14-kafka)** [Apache Kafka](./14-kafka/README.md). I have not yet written this article.
+
+15. **[Week 15: April 10, 2016](./15-huginn)** [Airline Bot Platform with Huginn](./15-huginn/README.md). This week I decided to build a bot platform using **Huginn** that can perform a lot of tasks for which we normally use mobile apps. Our goal was to show them that they should think beyond mobile apps and look into the world of bots as bots can be less intrusive, more secure, and does not require installation. Apps are dead, long live bots.
+
+16. **[Week 16: April 17, 2016](./16-newspaper)** [Building Your "Read It Later" App using Python and Newspaper Library](./16-newspaper/README.md).In this tutorial, you will learn how we can use a Python library newspaper to perform article extraction and build a simple "Read It Later" application.
+
+17. **[Week 17: April 24, 2016](./17-typescript)** [Let's Learn TypeScript](./17-typescript/README.md). This week I decided to learn TypeScript so I will discuss how you can get started with TypeScript. TypeScript is a typed superset of JavaScript, which means that it supports all the JavaScript features plus it adds static typing to the language.
+
+18. **[Week 18: May 01, 2016](./18-mesos)** [Getting Started with Apache Mesos](./18-mesos/README.md). This week we will learn about [Apache Mesos](http://mesos.apache.org/) -- an open source cluster manager and scheduler for your datacenter.
+
+19. **[Week 19: May 08, 2016](./18-bees)** [Load testing with bees](./19-bees/README.md). This week I discovered a Python utility called `beeswithmachineguns` that can load test a web application by launching many micro EC2 instances.
+
 -----------
 You can follow me on twitter at [https://twitter.com/shekhargulati](https://twitter.com/shekhargulati) or email me at <shekhargulati84@gmail.com>. Also, you can read my blogs at [http://shekhargulati.com/](http://shekhargulati.com/)
 
